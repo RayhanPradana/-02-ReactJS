@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+## Laporan Praktikum 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+|  | Pemrograman Berbasis Framework 2025 |
+|--|--|
+| NIM |  244107027011|
+| Nama |  Rayhan Pradana Putra Nugraha |
+| Kelas | TI - 4K RPL |
+ 
+# PRAKTIKUM 
+## Membuat komponen, menggunakan JSX, Menggunakan Props, Menggunakan State
 
-## Available Scripts
+App.js
 
-In the project directory, you can run:
+ ![Screenshot](img/1.png)
 
-### `npm start`
+Counter.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ ![Screenshot](img/2.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Greeting.js
 
-### `npm test`
+ ![Screenshot](img/3.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Biodata.js
 
-### `npm run build`
+ ![Screenshot](img/4.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Hasil
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ![Screenshot](img/hasil1.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# Tugas
+## 1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Komponen Todolist
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot](img/6.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Pemanggilan pada App
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot](img/7.png)
 
-## Learn More
+## 2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Penambahan tugas baru ke daftar
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot](img/tambah.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 3. Implementasikan fitur untuk menghapus tugas dari daftar. 
 
-### Analyzing the Bundle Size
+Implementasi hapus
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot](img/hapus.png)
 
-### Making a Progressive Web App
+## Hasil
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot](img/h.png)
+![Screenshot](img/h1.png)
+![Screenshot](img/h2.png)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
